@@ -5,7 +5,7 @@
 
 - 🔭 Atualmente estou fazendo o app [Minhas Finanças](https://github.com/gabrielkunst/minhas-financas)
 
-- 🌱 Atualmente estou aprendendo **NEXTJS, React, Redux, Jest**
+- 🌱 Aprendendo **NEXTJS, React, Redux, Jest**
 
 - 💬 Conheço sobre **React, JS, TS, Tailwind, SCSS**
 
