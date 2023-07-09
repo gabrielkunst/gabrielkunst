@@ -1,11 +1,8 @@
 # Olá 👋, me chamo Gabriel
 
 ## Informações
-
 - 💻 Programador Front End
-
 - 🌱 Atualmente estou aprendendo **NextJS, ReactJS, Redux e Jest**
-
 - 💬 Conheço um pouco sobre **ReactJS, JavaScript, TypeScript, Tailwind CSS**
 
 ## Formas de Contato:
