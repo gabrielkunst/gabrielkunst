@@ -28,5 +28,4 @@
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrielkunst&show_icons=true&theme=dark&locale=en&layout=compact" alt="gabrielkunst" /></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gabrielkunst&label=Profile%20views&color=006eb3&style=flat" alt="gabrielkunst" /> </p>
