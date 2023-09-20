@@ -2,7 +2,7 @@
 
 ## Informações
 - 💻 Programador Front End
-- 🎓 Cursando Engenharia de Software
+- 🎓 Cursando Engenharia de Software 2/8
 - 🌱 Atualmente estou aprendendo **NextJS, NodeJS e Jest**
 - 💬 Trabalho com **ReactJS, Redux, JavaScript, TypeScript, Tailwind CSS**
 
