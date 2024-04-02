@@ -3,7 +3,6 @@
 ## Informações
 - 💻 Programador Full Stack
 - 🎓 Cursando Engenharia de Software 3/8
-- 🌱 Atualmente estou aprendendo **Docker e React Native**
 - 💬 Trabalho principalmente com **ReactJS, NextJS, TypeScript, Tailwind CSS, NodeJs e Firebase**
 
 ## Formas de Contato
