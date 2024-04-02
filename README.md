@@ -8,7 +8,6 @@
 ## Formas de Contato
 
 <a href="https://www.linkedin.com/in/gabriel-kunst/">![linkedin](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-<a href="https://www.instagram.com/gabriel_kunstz/">![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)</a>
 
 ## Linguagens e Ferramentas
 
