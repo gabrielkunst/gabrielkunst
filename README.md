@@ -1,9 +1,8 @@
 # Hello 👋, my name is Gabriel
 
 ## Information
-- 💻 Full Stack Developer
-- 🎓 Studying Software Engineering (4 / 8)
-- 💬 Primarily working with **ReactJS, NextJS, TypeScript, Tailwind CSS, NodeJs, and NestJS**
+- 💻 Front-end Software Engineer
+- 💬 Primarily working with **ReactJS, Typescript and Tailwind CSS**
 
 ## Contact
 
